@@ -1,0 +1,2 @@
+# RelativeTimeSpanCalculator
+A program the calculate the exact nmuber of years, months, days, hours, minutes, seconds and milliseconds between 2 dates without resorting to any kind of approximation. The advantage of this program is that it does not simply calculates the number of days/ticks between two dates thus giving no infomation on the number of years/months that have passed but instead accurately calucate every unit of the dates relative to each other.
